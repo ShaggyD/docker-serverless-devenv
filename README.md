@@ -1,5 +1,5 @@
 
-#Alpine-based Serverless Development Environment#
+#Alpine-linux based Serverless Development Environment#
 
 This container is inteneded to provide a ready to run, lightweight Node and Serverless development environment for working with AWS Lambda. 
 
