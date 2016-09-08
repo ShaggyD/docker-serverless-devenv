@@ -17,3 +17,6 @@ Once you've exited the container, you can re-enter using:
 ```docker start serverless -i```
 
 Or if you want the container to disappear on exit, simply append ```--rm``` to your run command.
+
+[![](https://images.microbadger.com/badges/image/marklkelly/alpine-serverless-devenv.svg)](https://microbadger.com/images/marklkelly/alpine-serverless-devenv
+"Get your own image badge on microbadger.com")
